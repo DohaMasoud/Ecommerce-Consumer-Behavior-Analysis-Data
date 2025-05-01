@@ -1,4 +1,4 @@
-# 🛍️ Ecommerce Consumer Behavior Analysis Report
+# 🛍️ Ecommerce Consumer Behavior Analysis 
 ## 📝 Project Overview
 This project analyzes ecommerce customer behavior to reveal insights into purchasing patterns, 
 customer demographics, loyalty levels, and decision-making behavior.
